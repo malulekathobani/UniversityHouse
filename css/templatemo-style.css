@@ -423,6 +423,7 @@ h3.profile-title {
 .banner-bg {
   padding: 0px 40px 0px 40px;
   position: relative;
+  background: url("../img/profiloc.jpg");
   background-color: rgb(0,0,0);
   background-repeat: no-repeat;
   background-position: center;
@@ -464,6 +465,7 @@ h3.profile-title {
   overflow: hidden;
   border: 0px solid #dddddd;
   margin-bottom: 40px;
+
 }
 .about-image img {
   height= auto;
