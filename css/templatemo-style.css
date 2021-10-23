@@ -179,7 +179,7 @@ textarea {
 body {
   font-size: 14px;
   line-height: 24px;
-  color: #777777;
+  color: rgb(0,0,0);
   font-family: 'robotoregular';
   overflow-x: hidden;
 }
